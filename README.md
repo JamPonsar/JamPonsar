@@ -1,5 +1,7 @@
 ## About Me 👋
 
+Hi, My name is Jamyang Ponsar, or Jam!
+
 I recently earned my Bachelor of Science in Computer Science from Stony Brook University this December. Through my academic and personal projects, I’ve gained practical experience in developing full-stack applications using technologies like ReactJS, Node.js, Express, MongoDB, Material UI, and more. Alongside actively applying to new potential job opportunities and completing Leetcode questions, I am working on personal projects to enhance my skills while exploring and applying new technologies. These projects are designed to address real-world challenges, allowing me to gain hands-on experience and create practical, impactful solutions.
 
 This past summer, I had the opportunity to work as a BMS Programmer and QA Developer Intern at Controls NYC. I gained invaluable insight into the building management systems industry. This experience not only deepened my understanding of the industry but also allowed me to apply my Computer Science skills in real-world scenarios. I was able to work on designing and testing software solutions, which helped me bridge the gap between theoretical knowledge and practical implementation. This role reinforced my problem-solving abilities and enhanced my technical expertise in areas such as software development, system integration, and quality assurance.
